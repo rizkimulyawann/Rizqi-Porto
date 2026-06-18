@@ -7,7 +7,7 @@ export const portfolioData = {
     bio: "I create secure and user-friendly web and mobile applications using modern technologies.",
     mainPhoto: "/profil/profil.png",
     contact: {
-      phone: "6282229281176", // Ubah dengan nomor WhatsApp yang benar (awali dengan 62)
+      phone: "6285658059136", // Ubah dengan nomor WhatsApp yang benar (awali dengan 62)
       message: "Halo Rizqi, saya melihat portfolio Anda dan ingin berdiskusi lebih lanjut!" // Pesan default WA
     },
     socials: {
